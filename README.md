@@ -1,2 +1,2 @@
-# learn-python
-Python projects
+# Python Projects
+Personal repo for Python based fun projects and learning.
